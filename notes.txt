@@ -1,0 +1,5 @@
+desafios:
+
+Adicionar img nas grids,
+movimento de animação somente para um lado,
+scroll snap.
